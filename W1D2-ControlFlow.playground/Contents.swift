@@ -77,6 +77,8 @@ if bicycleCount == 0 {
 var inputString = "Do you like bicycles?"
 
 if inputString.last == "?" {
+    print("I think so!")
+}else{
     print("You don't say!")
 }
 
